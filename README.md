@@ -23,7 +23,7 @@ Você pode obter uma chave de API gratuita em [themoviedb.org](https://www.themo
 Isso deve permitir que os usuários executem facilmente o aplicativo após clonar o repositório e configurar a chave de API.
 
 
-
+Link da aplicação: https://movies-api-git-main-vivians-projects-222927f0.vercel.app/
 
 
 
